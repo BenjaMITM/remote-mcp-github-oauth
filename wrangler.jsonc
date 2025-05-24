@@ -11,8 +11,8 @@
 		"nodejs_compat"
 	],
 	"vars": {
-		"GITHUB_CLIENT_ID": "1234567890",
-		"GITHUB_CLIENT_SECRET": "1234567890",
+		"GITHUB_CLIENT_ID": "Ov23li3vgzxNmcrU7b9n",
+		"GITHUB_CLIENT_SECRET": "b1ba44b07919dcb841ddf4949d4d779d7746f1f4",
 		"COOKIE_ENCRYPTION_KEY": "1234567890"
 	},
 	"migrations": [
